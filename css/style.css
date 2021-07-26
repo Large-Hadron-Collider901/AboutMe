@@ -1,1 +1,27 @@
+  
+div {
+    text-align: center;
+    font-size: medium;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    border-inline-width: 1px solid black;
+    padding: 50px;
+    border-radius: 2px;
+    background-color:white;
+}
+body {
+     background-color: midnightblue;
+}   
+
+#headline {
+    margin: auto; 
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-color: midnightblue;
+    border-bottom-width: 100px;
+    border-color: midnightblue;
+
+}
+
 
