@@ -16,7 +16,7 @@ function playGame() {
     // normalize answers to easily verify input
     let guess = prompt(questions[i]).toLowerCase();
     if (i === 6) {
-      const instruments = ['Electric Violin', 'Theremin', 'Xylophone', 'Upright Bass', 'Electric Guitar', 'Mandolin'];
+      const instruments = ['electric violin', 'theremin', 'xylophone', 'upright bass', 'electric guitar', 'mandolin'];
 
       let attempts = 6;
       while (attempts !== 0) {
