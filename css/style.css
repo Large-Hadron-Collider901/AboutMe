@@ -1,40 +1,35 @@
-  
 div {
-    text-align: left;
-    font-size: medium;
-    margin-right: auto;
-    margin-left: auto;
-    width: 600px;
-    border-inline-width: 1px solid black;
-    padding: 50px;
-    border-radius: 2px;
-    background-color:white;
+  text-align: left;
+  font-size: medium;
+  margin-right: auto;
+  margin-left: auto;
+  width: 600px;
+  border-inline-width: 1px solid black;
+  padding: 50px;
+  border-radius: 2px;
+  background-color: white;
 }
 body {
-     background-color: midnightblue;
-}   
+  background-color: midnightblue;
+}
 
 #headline {
-    margin: auto; 
-    padding-bottom: 5px;
-    padding-top: 5px;
-    border-color: midnightblue;
-    border-bottom-width: 100px;
-    border-color: midnightblue;
-    font-family:'Dancing Script', cursive;
-    font-size: 30px;
+  margin: auto;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-color: midnightblue;
+  border-bottom-width: 100px;
+  border-color: midnightblue;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
 }
 
 h1 {
-   text-align: center;
-   font-family:'Dancing Script', cursive;
-   font-size:  50px;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
 }
-
 
 footer {
-       text-align: center;
+  text-align: center;
 }
-
-
-
